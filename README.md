@@ -2,9 +2,9 @@
    
 # SAE15  
 
-![GitHub top language](https://img.shields.io/github/languages/top/NullBrunk/PHPChat?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NullBrunk/PHPChat?style=for-the-badge)
-![repo size](https://img.shields.io/github/repo-size/NullBrunk/PHPChat?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/NullBrunk/SAE15?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NullBrunk/SAE15?style=for-the-badge)
+![repo size](https://img.shields.io/github/repo-size/NullBrunk/SAE15?style=for-the-badge)
 
 https://www.youtube.com/watch?v=FXjJw4VyfFA
 </div>
