@@ -6,7 +6,10 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NullBrunk/SAE15?style=for-the-badge)
 ![repo size](https://img.shields.io/github/repo-size/NullBrunk/SAE15?style=for-the-badge)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FXjJw4VyfFA/0.jpg)](https://www.youtube.com/watch?v=FXjJw4VyfFA)
+<a href="https://www.youtube.com/watch?v=FXjJw4VyfFA" target="_blank">
+   <img src="https://img.youtube.com/vi/FXjJw4VyfFA/0.jpg">
+</a>
+
 </div>
 
 # Concept
