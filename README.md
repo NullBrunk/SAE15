@@ -15,6 +15,7 @@
 # 🚗 Concept
 
 Ce projet consiste en une suite de classe C++ ainsi qu'un fichier Arduino (.ino) qui organise la logique. Une fois uploadé ce code permettra à votre voiture Arduino de suivre une ligne noir au sol, et de réaliser un 180° (demi-tour) une fois arrivée au bout, tout en changeant la couleur de sa LED à chaque étape pour indiquer ou il en est dans l'avancement.
+Voici le lien d'une <a href="https://www.youtube.com/watch?v=FXjJw4VyfFA" target="_blank">démo</a>.
 
 Dans le cadre du projet que nous avions à réaliser, l'Arduino devrais répéter cette action 4 fois, mais vous pouvez évidemment changer cette valeur.
 
