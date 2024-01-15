@@ -14,7 +14,7 @@
 
 # 🚗 Concept
 
-Ce projet consiste en une suite de classe C++ ainsi qu'un fichier Arduino (.ino) qui organise la logique. Une fois uploadé ce code permettra à votre voiture Arduino de suivre une ligne noir au sol, et de réaliser un 180° (demi-tour) une fois arrivée au bout.
+Ce projet consiste en une suite de classe C++ ainsi qu'un fichier Arduino (.ino) qui organise la logique. Une fois uploadé ce code permettra à votre voiture Arduino de suivre une ligne noir au sol, et de réaliser un 180° (demi-tour) une fois arrivée au bout, tout en changeant la couleur de sa LED à chaque étape pour indiquer ou il en est dans l'avancement.
 
 Dans le cadre du projet que nous avions à réaliser, l'Arduino devrais répéter cette action 4 fois, mais vous pouvez évidemment changer cette valeur.
 
@@ -39,3 +39,6 @@ SAE15/
 
 Nous avons choisi d'organiser notre code de façon à avoir d'un coté les .hpp contenant uniquement les signatures des méthodes/fonctions, et de l'autre côté les fichiers sources (.cpp) dans lesquels se trouve la logique.
 Enfin, nous avons le fichier main.ino qui est le point d'entrée.
+
+# 🧾 Dépendances
+Le code n'a qu'une seule dépendance, qui est FastLED. Vous pouvez rapidement l'installer avec le gestionnaire de librairies.
